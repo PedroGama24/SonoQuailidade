@@ -87,7 +87,7 @@ export default function Home() {
       <section id="sobre" className="w-full py-16 px-4 md:px-8 lg:px-16 bg-white">
         <div className="max-w-4xl mx-auto text-center">
           <h3 className="text-3xl font-bold text-gray-800 mb-8">Seu Plano Passo a Passo Para Noites Tranquilas</h3>
-          <p className="text-lg text-gray-600 mb-8">Dentro deste guia prático de 200 páginas, você não encontrará apenas teoria, mas um plano de ação comprovado. Descubra:</p>
+          <p className="text-lg text-gray-600 mb-8">Dentro deste guia prático, você não encontrará apenas teoria, mas uma técnica de ação comprovado. Descubra:</p>
           <ul className="list-disc list-inside text-left text-gray-700 space-y-2 max-w-2xl mx-auto mb-8">
             <li>A técnica de relaxamento de 5 minutos que induz ao sono rapidamente.</li>
             <li>Como criar o ambiente perfeito no seu quarto (e os erros comuns que você pode estar cometendo).</li>
@@ -145,7 +145,7 @@ export default function Home() {
             <p className="text-gray-600">(Pagamento único, sem assinaturas)</p>
           </div>
           <ul className="text-left text-gray-700 space-y-2 mb-6 list-disc list-inside">
-            <li>Guia Completo (200 páginas)</li>
+            <li>Guia Completo </li>
             <li>Bônus: Diário do Sono (Template)</li>
             <li>Bônus: Acesso Vitalício a Atualizações</li>
           </ul>
