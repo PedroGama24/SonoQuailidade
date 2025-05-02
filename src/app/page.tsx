@@ -149,7 +149,7 @@ export default function Home() {
             <li>Bônus: Diário do Sono (Template)</li>
             <li>Bônus: Acesso Vitalício a Atualizações</li>
           </ul>
-          <a href="https://pay.kirvano.com/ff112555-731d-4d2d-8364-908866d347db" target="_blank" rel="noopener noreferrer">
+          <a href="https://pay.kiwify.com.br/ONRt3cr" target="_blank" rel="noopener noreferrer">
             <Button size="lg" className="bg-green-500 hover:bg-green-600 text-white w-full shadow-lg transform hover:scale-105 transition-transform duration-200">
               GARANTIR MEU ACESSO AGORA por R$ 11,90
             </Button>
